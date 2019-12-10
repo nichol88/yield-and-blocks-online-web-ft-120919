@@ -12,5 +12,5 @@ end
 hello_t(["tim", "Tom", "Jim"]) do |name|
   if name.start_with?("T")
     puts "Hi, #{name}"
-  endruby
+  end
 end
